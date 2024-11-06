@@ -1,1 +1,1 @@
-# GAS_DVFS
+# Green_Application_Specific_DVFS
